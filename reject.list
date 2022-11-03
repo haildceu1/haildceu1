@@ -591,7 +591,7 @@ DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,guanggao
 DOMAIN-KEYWORD,lianmeng
 DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,www.google.cn
+#DOMAIN-SUFFIX,www.google.cn
 DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,partnerad
