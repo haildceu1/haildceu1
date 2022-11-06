@@ -59,7 +59,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
@@ -4723,7 +4722,6 @@ DOMAIN-SUFFIX,szbbs.net
 DOMAIN-SUFFIX,szetowah.org.hk
 DOMAIN-SUFFIX,t-g.com
 DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,t35.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,t91y.com
@@ -4802,7 +4800,6 @@ DOMAIN-SUFFIX,tcpspeed.co
 DOMAIN-SUFFIX,tcpspeed.com
 DOMAIN-SUFFIX,tcsofbc.org
 DOMAIN-SUFFIX,tcsovi.org
-DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,tdm.com.mo
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,teamamericany.com
@@ -4817,13 +4814,6 @@ DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telecomspace.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telegramdownload.com
-DOMAIN-SUFFIX,telegraph.co.uk
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tensorflow.org
@@ -6203,19 +6193,6 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 
-# Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
 
 # TeraBox
 DOMAIN-SUFFIX,terabox.com
@@ -6273,37 +6250,16 @@ DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,stel.com
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telega.one
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telegramdownload.com
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-KEYWORD,nicegram
-DOMAIN-KEYWORD,telegram
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,5.28.195.163/32,no-resolve
 IP-CIDR,5.28.195.205/32,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,95.161.64.0/20,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-PROCESS-NAME,nekox.messenger
-PROCESS-NAME,org.telegram.messenger
-PROCESS-NAME,telegram.exe
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
@@ -6533,7 +6489,6 @@ DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
-DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,thepiratebay.org
