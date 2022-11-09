@@ -1,16 +1,8 @@
 #emby
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,aaa.ax
-DOMAIN-SUFFIX,emby.cjpc.xyz
-DOMAIN-SUFFIX,cjpc.cc
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,paoche.ooo
-DOMAIN-SUFFIX,paoche.cf
-DOMAIN-SUFFIX,cjpc.xyz
-DOMAIN-SUFFIX,embyclub.net
+DOMAIN-KEYWORD,cjpc
 DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,embyclub.com
-DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,jmsooo.com
 IP-CIDR,142.54.186.0/24
 DOMAIN-KEYWORD,emby
