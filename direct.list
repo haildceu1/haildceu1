@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
-
 # Iqiyi 爱奇艺
 USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
@@ -6481,7 +6480,6 @@ DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
-
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -13403,6 +13401,7 @@ DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,udacity.com
+DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,uning.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
