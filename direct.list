@@ -19,6 +19,7 @@ DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+DOMAIN,real-debrid.cloud
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,speedtest.macpaw.com
@@ -35,6 +36,7 @@ DOMAIN,vd.l.qq.com
 DOMAIN,wmsjsteam.com
 DOMAIN,yjsgl.hit.edu.cn
 DOMAIN-KEYWORD,-cn
+DOMAIN-KEYWORD,real-debrid
 DOMAIN-KEYWORD,027168.
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,HELO
@@ -660,6 +662,7 @@ DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,raychase.net
+DOMAIN-SUFFIX,real-debrid.cloud
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,ronghub.com
