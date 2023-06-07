@@ -1,4 +1,5 @@
 DOMAIN,analytics.strava.com
+DOMAIN,wrtn.ai
 DOMAIN,apiintl.biliapi.net
 DOMAIN,app.adjust.com
 DOMAIN,cdn.hockeyapp.net
@@ -36,6 +37,7 @@ DOMAIN,vd.l.qq.com
 DOMAIN,wmsjsteam.com
 DOMAIN,yjsgl.hit.edu.cn
 DOMAIN-KEYWORD,-cn
+DOMAIN-KEYWORD,wrtn
 DOMAIN-KEYWORD,real-debrid
 DOMAIN-KEYWORD,027168.
 DOMAIN-KEYWORD,360buy
@@ -149,6 +151,7 @@ DOMAIN-SUFFIX,51jobcdn.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,58.com
+DOMAIN-SUFFIX,wrtn.ai
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,8686c.com
