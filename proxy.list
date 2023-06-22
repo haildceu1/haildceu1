@@ -6247,6 +6247,7 @@ IP-CIDR,173.192.222.160/27,no-resolve
 IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,173.252.64.0/18,no-resolve
+IP-CIDR,172.19.0.0/16,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
