@@ -1,5 +1,7 @@
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
