@@ -1,3 +1,5 @@
+USER-AGENT,bili*
+USER-AGENT,Bilibili*
 DOMAIN,analytics.strava.com
 DOMAIN,wrtn.ai
 DOMAIN,apiintl.biliapi.net
