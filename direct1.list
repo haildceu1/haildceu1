@@ -3,6 +3,7 @@ USER-AGENT,Bilibili*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
