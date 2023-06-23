@@ -1,6 +1,7 @@
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
+DOMAIN-KEYWORD,torrent
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
