@@ -2,6 +2,7 @@ USER-AGENT,bili*
 USER-AGENT,Bilibili*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
 DOMAIN-KEYWORD,torrent
+DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,zmk.pw
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
