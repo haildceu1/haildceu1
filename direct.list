@@ -1,6 +1,7 @@
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
 DOMAIN-SUFFIX,paperswithcode.com
+DOMAIN-SUFFIX,chatwithpaper.org
 DOMAIN,analytics.strava.com
 DOMAIN,wrtn.ai
 DOMAIN,apiintl.biliapi.net
