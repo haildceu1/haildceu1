@@ -3,6 +3,8 @@ USER-AGENT,Bilibili*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,openxlab
+DOMAIN-SUFFIX,paperswithcode.com
+DOMAIN-SUFFIX,chatwithpaper.org
 DOMAIN-SUFFIX,openxlab.org.cn
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,zmk.pw
