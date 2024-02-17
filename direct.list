@@ -2,7 +2,9 @@ USER-AGENT,bili*
 USER-AGENT,Bilibili*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
 DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,downloadtorrentfile
 DOMAIN-KEYWORD,openxlab
+DOMAIN-SUFFIX,downloadtorrentfile.com
 DOMAIN-SUFFIX,paperswithcode.com
 DOMAIN-SUFFIX,chatwithpaper.org
 DOMAIN-SUFFIX,openxlab.org.cn
