@@ -4,6 +4,8 @@ PROCESS-NAME,EpicWebHelper.exe,DIRECT
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,downloadtorrentfile
 DOMAIN-KEYWORD,openxlab
+DOMAIN-KEYWORD,cpolar
+DOMAIN-SUFFIX,dashboard.cpolar.com
 DOMAIN-SUFFIX,downloadtorrentfile.com
 DOMAIN-SUFFIX,paperswithcode.com
 DOMAIN-SUFFIX,chatwithpaper.org
