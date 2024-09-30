@@ -1,6 +1,6 @@
-- DOMAIN-SUFFIX,ubisoft.com,Ubisoft
-- DOMAIN-SUFFIX,ubi.com,Ubisoft
-- DOMAIN-SUFFIX,ubisoft.org,Ubisoft
-- DOMAIN-SUFFIX,ubisoftconnect.com,Ubisoft
-- DOMAIN-SUFFIX,ubisoftconnect.cdn.ubi.com
-- DOMAIN-KEYWORD,ubisoftconnect
+DOMAIN-SUFFIX,ubisoft.com,Ubisoft
+DOMAIN-SUFFIX,ubi.com,Ubisoft
+DOMAIN-SUFFIX,ubisoft.org,Ubisoft
+DOMAIN-SUFFIX,ubisoftconnect.com,Ubisoft
+DOMAIN-SUFFIX,ubisoftconnect.cdn.ubi.com
+DOMAIN-KEYWORD,ubisoftconnect
