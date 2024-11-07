@@ -1,10 +1,14 @@
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
+USER-AGENT,haixingtiyu*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
+PROCESS-NAME,com.deepcurrent.phonelive,DIRECT
+DOMAIN-KEYWORD,haixing
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,downloadtorrentfile
 DOMAIN-KEYWORD,openxlab
 DOMAIN-KEYWORD,cpolar
+DOMAIN-SUFFIX,haixingtiyu.live
 DOMAIN-SUFFIX,dashboard.cpolar.com
 DOMAIN-SUFFIX,cdn.swing.tennis
 DOMAIN-SUFFIX,downloadtorrentfile.com
