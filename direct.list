@@ -3,7 +3,6 @@ USER-AGENT,Bilibili*
 USER-AGENT,haixingtiyu*
 PROCESS-NAME,EpicWebHelper.exe,DIRECT
 PROCESS-NAME,com.deepcurrent.phonelive,DIRECT
-PROCESS-NAME,com.docker.backend.exe,DIRECT
 DOMAIN-KEYWORD,haixing
 DOMAIN-KEYWORD,haixingtiyu
 DOMAIN-KEYWORD,openxlab
